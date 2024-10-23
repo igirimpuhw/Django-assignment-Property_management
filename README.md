@@ -1,6 +1,16 @@
 # Django-assignment-Property_management
-Names: IGIRIMPUHWE Jonathan 222004512
-Names: UMUHOZA Amandine Divine 222005360
+
+UNIVERSITY OF RWANDA
+
+COLLEGE OF SCIENCE AND TECHNOLOGY
+
+YEAR 3 INFORMATION TECHNOLOGY
+
+1. Names: IGIRIMPUHWE Jonathan 222004512
+
+
+2. Names: UMUHOZA Amandine Divine 222005360
+
 
 
 This is our property_management which has property_app(models,view,admin,setting)
