@@ -14,13 +14,19 @@ YEAR 3 INFORMATION TECHNOLOGY
 
 This is our property_management which has property_app(models,view,admin,setting)
 
+. Firstly We have created Virtual Environment   
 
-Access the admin interface
+-install PIP DJANGO 
 
-open your browser and click to link which specify by server.
-manage properties,units,tenants, and leases:
-use the admin interfaces to add, edit, or delete entries as needed.
-MODELS
+-running our initial migration
+
+-creating super user with their credentials
+
+-runing servers
+
+-Access te admin interface 
+
+..MODELS
 the system includes the following models
 
 .PROPERTY
@@ -70,6 +76,19 @@ the system includes the following models
   
   .rent_amount:Amount of rent for the lease period
 
+  
+..ADMIN INTERFACE
+
+
+  After running server and go to ADMIN INTERFACE
+
+
+  You can login using credentials created in creation of super User 
+  here admin is allowed to Add information in Properties, UNITS, TENANTS and Lease
+
+  Admin is allowed to add ,delete and change all information
+
+  
 
   
 
