@@ -2,8 +2,10 @@
 Names: IGIRIMPUHWE Jonathan 222004512
 Names: UMUHOZA Amandine Divine 222005360
 
+
 This is our property_management which has property_app(models,view,admin,setting)
 Access the admin interface
+
 open your browser and click to link which specify by server.
 manage properties,units,tenants, and leases:
 use the admin interfaces tp add, edit, or delete entries as needed.
