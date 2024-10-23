@@ -13,6 +13,8 @@ YEAR 3 INFORMATION TECHNOLOGY
 
 
 This is our property_management which has property_app(models,view,admin,setting)
+
+
 Access the admin interface
 
 open your browser and click to link which specify by server.
@@ -67,5 +69,8 @@ the system includes the following models
   .end_date:Lease end date
   
   .rent_amount:Amount of rent for the lease period
+
+
+  
 
 
